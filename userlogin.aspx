@@ -47,7 +47,24 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="row" style="margin-bottom:10px;">
+                        <div class="col-md-6">
+                            <center>
+                            <a href="homepage.aspx">Back to homepage</a>
+                        </center>
+
+                        </div>
+                        <div class="col-md-6">
+                            <center>
+                            <a href="homepage.aspx">Forgot password?</a>
+                        </center>
+
+                        </div>
+                    </div>
                 </div>
+                <br />
+
             </div>
         </div>
     </div>
