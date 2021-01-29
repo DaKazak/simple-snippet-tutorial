@@ -121,7 +121,7 @@
                         <div class="row">
                             <div class="col">
                                 <center>
-                           <span class="badge badge-pill badge-info">Login Credentials</span>
+                           <span class="badge badge-pill badge-info">Login Details</span>
                         </center>
                             </div>
                         </div>
